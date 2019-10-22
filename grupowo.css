@@ -1,0 +1,38 @@
+﻿body 
+{
+  background-color: #EEE;
+  font-family: 'Open Sans', sans-serif;
+  }
+
+
+#fondo
+	{background-size: cover; background-repeat: no-repeat; background-position: center center; }
+
+h1 { color: white; text-shadow: 2px 2px 4px #000000; }
+p { text-align: justify; color: white; }
+ul { color: white; }
+
+
+
+#joa
+{
+  margin-left: 150px; display: flex;
+  justify-content: flex-start; float: left; width: 100%; 
+}
+
+	p { text-indent: 20px; text-decoration: underline; text-shadow: 0 0 6px #000000; color: white; }
+#diego
+{
+  margin-left: 150px; display: flex;
+  justify-content: flex-start; float: left; width: 100%; 
+}
+
+#ale
+{
+  margin-left: 150px; display: flex;
+  justify-content: flex-start; float: left; width: 100%; color: white; text-decoration: none;
+}
+
+
+ul
+{ width: 400px; }
